@@ -1,0 +1,24 @@
+# USB MAP
+
+## Internal [255]
+7. UK07 | AppleUSB20XHCIPort |  7 (07000000) | 14700000 | Type 3 - Bluetooth
+11. UK11 | AppleUSB20XHCIPort | 11 (0b000000) | 14b00000 | Type 3 - ITE
+
+## USB 2.0 Type A [0]
+2. UK02 | AppleUSB20XHCIPort |  2 (02000000) | 14200000 | Type 3 - Gabinete Meio 1/2
+4. UK04 | AppleUSB20XHCIPort |  4 (04000000) | 14400000 | Type 3 - MB Superior Vermelha 1/1
+5. UK05 | AppleUSB20XHCIPort |  5 (05000000) | 14500000 | Type 3 - Gabinete Ponta 2/2
+6. UK06 | AppleUSB20XHCIPort |  6 (06000000) | 14600000 | Type 3 - MB Superior HUB
+9. UK09 | AppleUSB20XHCIPort |  9 (09000000) | 14900000 | Type 3 - HUB Gabinete Azul 1/1 + MB Azul Inferiores
+10. UK10 | AppleUSB20XHCIPort | 10 (0a000000) | 14a00000 | Type 3 - MB Superior Azul 1/1
+
+## USB 3.0 Type A [3]
+19. UK19 | AppleUSB30XHCIPort | 19 (13000000) | 14300000 | Type 3 - MB Superior Vermelha 1/1
+24. UK24 | AppleUSB30XHCIPort | 24 (18000000) | 14800000 | Type 3 - HUB Gabinete Azul 1/1 + MB Azul Inferiores
+25. UK25 | AppleUSB30XHCIPort | 25 (19000000) | 14900000 | Type 3 - MB Superior Azul 1/1
+
+## USB 2.0 Type C [9]
+1. UK01 | AppleUSB20XHCIPort |  1 (01000000) | 14100000 | Type 3 - MB USB C
+
+## USB 3.0 Type C (Without Internal Switch) [10]
+17. UK17 | AppleUSB30XHCIPort | 17 (11000000) | 14100000 | Type 3 - MB USB C
